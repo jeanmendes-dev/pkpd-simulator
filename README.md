@@ -33,21 +33,21 @@ Totalmente **reprodutível, baseado em código aberto e alinhado às boas práti
 ## 📊 Exemplo de Saída
 
 ### Perfil de Concentração Plasmática
-![Tabela de Demografia](screenshots/perfil-concentracao-plasmatica-oral.png)
+![Tabela de Demografia](perfil-concentracao-plasmatica-oral.png)
 
 ### Tabela de Concentração Plasmática
-![Gráfico de Eventos Adversos](screenshots/tabela-concentracao-plasmatica-oral.png)
+![Gráfico de Eventos Adversos](tabela-concentracao-plasmatica-oral.png)
 
 ### Análise de Sensibilidade - Impacto do Clearance
-![Análise de Gravidade](screenshots/analise-sensibilidade-clearance-oral.png)
+![Análise de Gravidade](analise-sensibilidade-clearance-oral.png)
 
 ---
 
 ## 🖥️ Aplicativo Interativo (Shiny)
 
-Explore os dados clínicos de forma interativa com o aplicativo Shiny.
+Explore os dados clínicos de forma interativa.
 
-![App Shiny](screenshots/simuladorPK-app-shiny.png)
+![App Shiny](simuladorPK-app-shiny.png)
 
 > 🔍 *Clique na imagem acima para ver o demo completo (se disponível).*
 ## ▶️ Como Executar
