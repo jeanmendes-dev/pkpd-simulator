@@ -32,25 +32,22 @@ Totalmente **reprodutível, baseado em código aberto e alinhado às boas práti
 
 ## 📊 Exemplo de Saída
 
-### Tabela de Demografia
-![Tabela de Demografia](screenshots/demographics_table.png)
+### Perfil de Concentração Plasmática
+![Tabela de Demografia](screenshots/perfil-concentracao-plasmatica-oral.png)
 
-### Gráfico de Eventos Adversos
-![Gráfico de Eventos Adversos](screenshots/adverse_events_plot.png)
+### Tabela de Concentração Plasmática
+![Gráfico de Eventos Adversos](screenshots/tabela-concentracao-plasmatica-oral.png)
 
-### Análise de Gravidade dos Eventos
-![Análise de Gravidade](screenshots/severity_table.png)
-
-### Resultado do Teste Estatístico
-![Teste de Fisher](screenshots/fisher_test_result.png)
+### Análise de Sensibilidade - Impacto do Clearance
+![Análise de Gravidade](screenshots/analise-sensibilidade-clearance-oral.png)
 
 ---
 
 ## 🖥️ Aplicativo Interativo (Shiny)
 
-Explore os dados clínicos de forma interativa com nosso aplicativo Shiny.
+Explore os dados clínicos de forma interativa com o aplicativo Shiny.
 
-![App Shiny](screenshots/shiny_app_screenshot.png)
+![App Shiny](screenshots/simuladorPK-app-shiny.png)
 
 > 🔍 *Clique na imagem acima para ver o demo completo (se disponível).*
 ## ▶️ Como Executar
