@@ -54,9 +54,9 @@ Explore clinical simulation data interactively.
 ## ▶️ How to Run
 
 ```r
-# 1. Clone o repositório
-# 2. Instale dependências
+# 1. Clone the repository
+# 2. Install dependencies
 install.packages(c("deSolve", "ggplot2", "tidyverse", "rmarkdown", "gt"))
 
-# 3. Gere o relatório
+# 3. Generate the report
 rmarkdown::render("analysis.Rmd", output_format = "html_document")
