@@ -50,7 +50,6 @@ Explore clinical simulation data interactively.
 ![App Shiny](simuladorPK-app-shiny.png)
 
 > 🔍 *Click the image above to view the full demo (if available).*
-
 ## ▶️ How to Run
 
 ---
